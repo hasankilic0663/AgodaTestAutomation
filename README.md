@@ -2,14 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8" />
-<title>Agoda Test Automation Project</title>
-<style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; }
-    code, pre { background: #f4f4f4; padding: 10px; display: block; border-radius: 5px; }
-    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
-    table, th, td { border: 1px solid #ccc; padding: 8px; }
-    h1, h2, h3 { margin-top: 30px; }
-</style>
+
 </head>
 <body>
 
@@ -229,3 +222,4 @@ Scenario: Kullanıcı başarılı rezervasyon oluşturur
 
 </body>
 </html>
+
